@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://imgur.com/a/LLASmXd"/>
+<img src="https://imgur.com/CebNmkf"/>
 </p>
 
 <h1>Deploying a VM in Azure</h1>
