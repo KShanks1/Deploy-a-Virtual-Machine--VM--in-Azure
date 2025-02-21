@@ -35,6 +35,7 @@ First Im going to sign into Azure and type in VM for (Virtual Machine) and creat
 </p>
 <br />
 
+
 <p>
 <img src="https://i.imgur.com/JxT2LeX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -43,6 +44,7 @@ Im going to create a new VM, called MyTestVM. For VM name I wrote down MyTestVM,
 </p>
 <br />
 
+
 <p>
 <img src="https://i.imgur.com/EOO0VIy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -50,6 +52,7 @@ Im going to create a new VM, called MyTestVM. For VM name I wrote down MyTestVM,
 For username and password I picked something I could easily remember. Username: Azureadmin and Password: Password123!. Under networking Im going to Create New VNET. Im creating a new Virtual Network (VNet) because its a private network in the cloud where my resources (like VMs) communicate. By creating a VNet, Im ensuring my VM has a secure, isolated network environment. This prevents direct internet access unless configured. I choose default subnet because it divides my network into smaller segments to organize and secure traffic between resources. Each subnet can have its own security rules and settings. Azure automatically creates a default subnet.
 </p>
 <br />
+
 
 <p>
 <img src="https://i.imgur.com/1f9Bmjo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -67,6 +70,7 @@ Once logged in, Im going to verify the VM by pulling up PowerShell in RDP and ru
 </p>
 <br />
 
+
 <p>
 <img src="https://i.imgur.com/CiYQDZV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -83,3 +87,13 @@ Some othert commands I ran to make sure the VM is running properly was:
 <img src="https://i.imgur.com/yfqgiEk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
+
+
+<p>
+<img src="https://i.imgur.com/Zu7xJFx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Once Im finished with my VM, Im going to permanently delete everything. 
+</p>
+<br />
+
