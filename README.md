@@ -1,5 +1,5 @@
 <p align="center">
-<img src="[img]https://i.imgur.com/CebNmkf.png[/img]"Azure"/>
+<img src="https://i.imgur.com/CebNmkf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <h1>Deploying a VM in Azure</h1>
 In this tutorial i will set up a Windows Virtual Machine (VM) in Azure, configure networking, enable remote access, and verify its functionality.<br />
