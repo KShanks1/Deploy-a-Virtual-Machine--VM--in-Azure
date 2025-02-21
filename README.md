@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://imgur.com/CebNmkf"/>
+<img src="<blockquote class="imgur-embed-pub" lang="en" data-id="CebNmkf"><a href="https://imgur.com/CebNmkf">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>"/>
 </p>
 
 <h1>Deploying a VM in Azure</h1>
