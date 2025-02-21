@@ -1,6 +1,5 @@
 <p align="center">
-<img src="<blockquote class="imgur-embed-pub" lang="en" data-id="CebNmkf"><a href="https://imgur.com/CebNmkf">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>"/>
-</p>
+<img src="<blockquote class="imgur-embed-pub" lang="en" data-id="CebNmkf"><a href="https://imgur.com/CebNmkf">
 
 <h1>Deploying a VM in Azure</h1>
 In this tutorial i will set up a Windows Virtual Machine (VM) in Azure, configure networking, enable remote access, and verify its functionality.<br />
