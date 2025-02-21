@@ -28,7 +28,7 @@ In this tutorial i will set up a Windows Virtual Machine (VM) in Azure, configur
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://imgur.com/tLtSlIl" height="80%" width="80%"/>
+<img src="https://i.imgur.com/tLtSlIl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 First Im going to sign into Azure and type in VM for (Virtual Machine) and create a new VM this is going to be for Windows. 
