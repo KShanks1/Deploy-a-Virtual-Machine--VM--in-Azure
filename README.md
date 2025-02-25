@@ -7,7 +7,7 @@ In this tutorial, I will set up a Windows Virtual Machine (VM) in Azure, configu
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Computer)
+- Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
 
