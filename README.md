@@ -2,12 +2,12 @@
 <img src="https://i.imgur.com/CebNmkf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <h1>Deploying a VM in Azure</h1>
-In this tutorial I will set up a Windows Virtual Machine (VM) in Azure, configure networking, enable remote access, and verify its functionality.<br />
+In this tutorial, I will set up a Windows Virtual Machine (VM) in Azure, configure networking, enable remote access, and verify its functionality.<br />
 
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Microsoft Azure (Virtual Machines/Computer)
 - Remote Desktop
 - Internet Information Services (IIS)
 
